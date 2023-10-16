@@ -1,4 +1,4 @@
-package org.ajhy.util;
+package org.ajhy.util.memory;
 
 import java.util.Collection;
 import java.util.concurrent.LinkedBlockingQueue;

@@ -1,4 +1,4 @@
-package org.ajhy.util;
+package org.ajhy.util.memory;
 
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
