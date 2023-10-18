@@ -14,7 +14,6 @@ import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-@Slf4j
 public class XMLUtils {
 
     private final static DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
